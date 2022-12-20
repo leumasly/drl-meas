@@ -1,8 +1,6 @@
 name: meas
 channels:
   - conda-forge
-  - microsoft
-  - pytorch
 dependencies:
   - _ipython_minor_entry_point=8.7.0=h0c17e10_0
   - anyio=3.6.2=pyhd8ed1ab_0
