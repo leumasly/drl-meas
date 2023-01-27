@@ -103,6 +103,11 @@ class Meas:
 
         return data
 
+
+
+
+## TODO: make the stuff below a separate class
+
     def FielddepMeaasurment(self, file_dir, ID="test",lock1=None, lock2=None, currs=[], count=1, Field=True, Reset=False):
         if lock1 is None:
             lock1 = self.Lockin(rm, 1)
