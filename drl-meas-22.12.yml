@@ -213,4 +213,3 @@ dependencies:
     - pymongo==4.3.3
     - tblib==1.7.0
     - werkzeug==2.2.2
-prefix: C:\Users\leumas\mambaforge\envs\meas
